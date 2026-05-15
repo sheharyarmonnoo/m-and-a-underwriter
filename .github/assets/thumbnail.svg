@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="M&A Underwriter">
+  <rect width="600" height="360" fill="#f4f1ec"/>
+  <rect x="0" y="0" width="600" height="4" fill="#0a0a0a"/>
+  <rect x="0" y="356" width="600" height="4" fill="#0a0a0a"/>
+  <rect x="0" y="0" width="4" height="360" fill="#0a0a0a"/>
+  <rect x="596" y="0" width="4" height="360" fill="#0a0a0a"/>
+  <rect x="40" y="40" width="220" height="220" fill="#0a0a0a"/>
+  <rect x="46" y="46" width="208" height="208" fill="#ff4d2e"/>
+  <text x="150" y="172" text-anchor="middle"
+        font-family="'JetBrains Mono','Courier New',monospace"
+        font-size="68" font-weight="900" fill="#0a0a0a" letter-spacing="-2">M&A</text>
+  <text x="300" y="310"
+        font-family="Inter,system-ui,-apple-system,sans-serif"
+        font-size="22" font-weight="900" fill="#0a0a0a" letter-spacing="-1" text-anchor="middle">M&A Underwriter</text>
+  <text x="300" y="332" text-anchor="middle"
+        font-family="'JetBrains Mono','Courier New',monospace"
+        font-size="10" font-weight="700" fill="#6b6b6b" letter-spacing="3">M-AND-A-UNDERWRITER</text>
+</svg>

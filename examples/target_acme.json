@@ -1,0 +1,30 @@
+{
+  "target": {
+    "name": "Acme Industrial",
+    "ticker": null,
+    "industry": "Industrial distribution",
+    "ltm_revenue": 240.0,
+    "ltm_ebitda": 36.0,
+    "ebitda_margin_proj": 0.16,
+    "revenue_growth": [0.08, 0.07, 0.06, 0.05, 0.05],
+    "capex_pct_revenue": 0.025,
+    "nwc_pct_revenue": 0.10,
+    "tax_rate": 0.25,
+    "d_and_a_pct_revenue": 0.03,
+    "existing_net_debt": 12.0
+  },
+  "deal": {
+    "entry_multiple": 9.5,
+    "exit_multiple": 9.5,
+    "hold_years": 5,
+    "transaction_fees": 0.025,
+    "financing_fees": 0.02,
+    "min_cash": 5.0,
+    "cap_stack": [
+      {"name": "Revolver", "kind": "revolver", "principal": 0,    "rate": 0.075, "term_years": 5, "amort_pct": 0.00},
+      {"name": "TLA",      "kind": "tla",      "principal": 50.0, "rate": 0.075, "term_years": 5, "amort_pct": 0.10},
+      {"name": "TLB",      "kind": "tlb",      "principal": 105.0,"rate": 0.085, "term_years": 7, "amort_pct": 0.01},
+      {"name": "Mezz",     "kind": "mezz",     "principal": 35.0, "rate": 0.12,  "term_years": 8, "amort_pct": 0.00}
+    ]
+  }
+}
