@@ -11,7 +11,6 @@ from m_and_a_underwriter import (
     TargetFinancials,
     Tranche,
     build_sources_uses,
-    compute_returns,
     offline_memo,
     project_years,
     run_model,
